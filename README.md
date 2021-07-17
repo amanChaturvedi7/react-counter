@@ -1,4 +1,4 @@
-#Counter component made in Reactjs library.
+# Counter component made in Reactjs library.
 ![CPT2107171212-204x71](https://user-images.githubusercontent.com/28622828/126028603-b1c9decf-c32b-4456-bb67-c920ec8012a0.gif)
 
 # Getting Started with Create React App
